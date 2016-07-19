@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Merchants.Models.ViewModel.MerchantViewModel>
+
+@{
+    ViewBag.Title = "Global Merchants";
+}
+
+<h2>Global Merchants</h2>
+
+@using (Ajax.BeginForm(new AjaxOptions
+{
+    HttpMethod = "get",
+    InsertionMode = InsertionMode.Replace,
+    UpdateTargetId = "merchantsList"
+}))
+{
+    <input type="search" name="searchTerm" />
+    <input type="submit" value="Search By Country or Name" />
+}
+
+@Html.Partial("_MerchantsList", Model)
+
+
+@Html.ActionLink("Add new merchant", "CreateMerchant", "GlobalMerchants") 
+
+

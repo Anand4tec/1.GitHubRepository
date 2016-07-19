@@ -1,0 +1,7 @@
+C:\SAS\Projects and study materials\Projects\For companies\Merchants\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\SAS\Projects and study materials\Projects\For companies\Merchants\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\SAS\Projects and study materials\Projects\For companies\Merchants\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\SAS\Projects and study materials\Projects\For companies\Merchants\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\SAS\Projects and study materials\Projects\For companies\Merchants\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\SAS\Projects and study materials\Projects\For companies\Merchants\DataAccessLayer\bin\Debug\DomainModel.dll
+C:\SAS\Projects and study materials\Projects\For companies\Merchants\DataAccessLayer\bin\Debug\DomainModel.pdb

@@ -1,0 +1,5 @@
+C:\SAS\Projects and study materials\Projects\For companies\Merchants\DomainModel\bin\Debug\DomainModel.dll
+C:\SAS\Projects and study materials\Projects\For companies\Merchants\DomainModel\bin\Debug\DomainModel.pdb
+C:\SAS\Projects and study materials\Projects\For companies\Merchants\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+C:\SAS\Projects and study materials\Projects\For companies\Merchants\DomainModel\obj\Debug\DomainModel.dll
+C:\SAS\Projects and study materials\Projects\For companies\Merchants\DomainModel\obj\Debug\DomainModel.pdb

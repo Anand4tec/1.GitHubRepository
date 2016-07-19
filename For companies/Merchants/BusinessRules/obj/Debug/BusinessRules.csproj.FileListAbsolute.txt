@@ -1,0 +1,7 @@
+C:\SAS\Projects and study materials\Projects\For companies\Merchants\BusinessRules\bin\Debug\BusinessRules.dll
+C:\SAS\Projects and study materials\Projects\For companies\Merchants\BusinessRules\bin\Debug\BusinessRules.pdb
+C:\SAS\Projects and study materials\Projects\For companies\Merchants\BusinessRules\bin\Debug\DomainModel.dll
+C:\SAS\Projects and study materials\Projects\For companies\Merchants\BusinessRules\bin\Debug\DomainModel.pdb
+C:\SAS\Projects and study materials\Projects\For companies\Merchants\BusinessRules\obj\Debug\BusinessRules.csprojResolveAssemblyReference.cache
+C:\SAS\Projects and study materials\Projects\For companies\Merchants\BusinessRules\obj\Debug\BusinessRules.dll
+C:\SAS\Projects and study materials\Projects\For companies\Merchants\BusinessRules\obj\Debug\BusinessRules.pdb

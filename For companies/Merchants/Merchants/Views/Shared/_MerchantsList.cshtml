@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Merchants.Models.ViewModel.MerchantViewModel>
+
+<div id="merchantsList">
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MerchantName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AddedBy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Country)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MerchantProfit)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateAdded)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NumberOfOutlets)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td align="center">
+                    @Html.DisplayFor(modelItem => item.MerchantName)
+                </td>
+                <td align="center">
+                    @Html.DisplayFor(modelItem => item.AddedBy)
+                </td>
+                <td align="center">
+                    @Html.DisplayFor(modelItem => item.Country)
+                </td>
+                <td align="center">
+                    @Html.DisplayFor(modelItem => item.MerchantProfit)
+                </td>
+                <td align="center">
+                    @Html.DisplayFor(modelItem => item.DateAdded)
+                </td>
+                <td align="center">
+                    @Html.DisplayFor(modelItem => item.NumberOfOutlets)
+                </td>
+                <td align="center">
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+
+    </table>
+
+</div>
+
+
